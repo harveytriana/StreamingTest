@@ -98,7 +98,7 @@ namespace StreamingTest.Hubs
             while (await stream.WaitToReadAsync()) {
                 while (stream.TryRead(out var item)) {
                     // do something with the stream item
-                    _logger.LogInformation($"From client: {item}", true);
+                    _logger.LogInformation($"From client: {item}");
                 }
             }
         }
