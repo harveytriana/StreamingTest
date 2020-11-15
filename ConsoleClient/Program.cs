@@ -14,7 +14,7 @@ namespace ConsoleClient
 
         static void Main()
         {
-            Console.WriteLine("STRAMING TEST\n");
+            Console.WriteLine("STREAMING TEST\n");
             Console.WriteLine("Run as Multiple startup projects");
             Console.WriteLine("Press Enter key when server is ready");
             Console.ReadKey();
