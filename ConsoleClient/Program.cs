@@ -43,7 +43,7 @@ namespace ConsoleClient
 
         static async Task MainAsync(CancellationToken cancellationToken, ILogger logger)
         {
-            var hubUrl = "http://localhost:8016/streamHub";
+            var hubUrl = "http://localhost:9000/streamHub";
             try {
                 _connection = new HubConnectionBuilder()
                      .WithUrl(hubUrl)

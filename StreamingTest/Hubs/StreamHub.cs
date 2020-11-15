@@ -10,7 +10,7 @@ using Microsoft.AspNetCore.SignalR;
 using Microsoft.Extensions.Logging;
 
 //! BASIC SOURCE
-// https://docs.microsoft.com/en-us/aspnet/core/signalr/streaming?view=aspnetcore-3.1
+// https://docs.microsoft.com/en-us/aspnet/core/signalr/streaming
 
 namespace StreamingTest.Hubs
 {
