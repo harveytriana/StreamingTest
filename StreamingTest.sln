@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamingTest", "StreamingTest\StreamingTest.csproj", "{6909E91C-4360-4678-84F0-0BDB63E64C59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleClient", "ConsoleClient\ConsoleClient.csproj", "{AA3DFEFE-2A53-4002-949E-111E85DDD78A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6909E91C-4360-4678-84F0-0BDB63E64C59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6909E91C-4360-4678-84F0-0BDB63E64C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6909E91C-4360-4678-84F0-0BDB63E64C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6909E91C-4360-4678-84F0-0BDB63E64C59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA3DFEFE-2A53-4002-949E-111E85DDD78A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA3DFEFE-2A53-4002-949E-111E85DDD78A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA3DFEFE-2A53-4002-949E-111E85DDD78A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA3DFEFE-2A53-4002-949E-111E85DDD78A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F8BE724-73B7-463C-855F-07F6BB0E6B96}
+	EndGlobalSection
+EndGlobal
